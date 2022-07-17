@@ -1,5 +1,6 @@
 class Rectangle:
-  """Creates rectangles which can be displayed
+  """@AUTHOR Cheryl Vadivello
+  Creates rectangles which can be displayed
   as strings.
 """
 
